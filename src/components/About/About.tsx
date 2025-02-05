@@ -16,7 +16,6 @@ import gcloud from "../../assets/icons8-google-cloud.svg";
 import git from "../../assets/icons8-git.svg";
 import jenkins from "../../assets/icons8-jenkins.svg";
 import kub from "../../assets/icons8-kubernetes.svg";
-import mongo from "../../assets/icons8-mongodb.svg";
 import sql from "../../assets/icons8-mysql-logo.svg";
 import postman from "../../assets/icons8-postman-api.svg";
 import post from "../../assets/icons8-postgresql.svg";
