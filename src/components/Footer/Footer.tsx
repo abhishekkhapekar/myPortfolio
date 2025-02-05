@@ -11,7 +11,7 @@ export function Footer() {
     <Container className="footer">
       <a href="https://abhishekkhapekar.pages.dev" className="logo">
         <span>www.abhishek</span>
-        <span>khapekar.in</span>
+        <span>dk.in</span>
       </a>
       <div>
         <p>
