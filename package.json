@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://abhishekkhapekar.github.io/myPortfolio",
+  "homepage": "https://abhishekkhapekar.github.io/myPortfolio/",
   "dependencies": {
     "@formspree/react": "^2.2.4",
     "@merc/react-timeline": "^0.1.42",
