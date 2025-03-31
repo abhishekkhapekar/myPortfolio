@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.039bf95e.css",
-    "main.js": "/static/js/main.a7345338.js",
+    "main.js": "/static/js/main.3ae49644.js",
     "static/media/Hello.gif": "/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/Abhishek.webp": "/static/media/Abhishek.a3493c4ceae4659c36bc.webp",
     "static/media/Abhishek-Khapekar.pdf": "/static/media/Abhishek-Khapekar.531e7a0358adfeb1c75d.pdf",
@@ -41,10 +41,10 @@
     "static/media/js-icon.svg": "/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
     "static/media/angular.svg": "/static/media/angular.7d5f91dae7422d7a82309d457151f1cb.svg",
     "main.039bf95e.css.map": "/static/css/main.039bf95e.css.map",
-    "main.a7345338.js.map": "/static/js/main.a7345338.js.map"
+    "main.3ae49644.js.map": "/static/js/main.3ae49644.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.a7345338.js"
+    "static/js/main.3ae49644.js"
   ]
 }
